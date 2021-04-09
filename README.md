@@ -1,4 +1,4 @@
-### Hi there I'm Marcel Santana and this is my github repository 👋
+### Hi there, I'm Marcel Santana and this is my github repository 👋
 
 <!--
 **marcelsantana/marcelsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
