@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=3494E0"/> <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=326DE6"/> <img src="https://img.shields.io/badge/IDE-Eclipse-informational?style=plastic&logo=eclipse&logoColor=white&color=DA7A0A"/>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/marcelsantana/" target="_blank"><img height="30" src="https://github.com/marcelsantana/marcelsantana/blob/main/assets/icons/linkedin-icon.svg"></a>
-<a href="mailto:marceltuk@gmail.com" target="_blank"><img height="30" src="https://github.com/marcelsantana/marcelsantana/blob/main/assets/icons/mail-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marcelsantana/" target="_blank"><img height="30" src="https://github.com/marcelsantana/marcelsantana/blob/main/linkedin-icon.svg"></a>
+<a href="mailto:marceltuk@gmail.com" target="_blank"><img height="30" src="https://github.com/marcelsantana/marcelsantana/blob/main/mail-icon.svg"></a>&nbsp;&nbsp;
 </p>
 <h2 align="center">Hello there! My name is Marcel Santana. 👋 </h2>
 <p align="center">I'm a Database Developer from Brazil, currently working at Oracle with focus on Oracle Retail Products.
