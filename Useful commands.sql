@@ -1,12 +1,3 @@
-ORACLE QUEUE
-=====================
--- listar a tabela relacionada a uma fila
-select t.*
-  from user_queues q
-     , user_queue_tables t
-where q.name = upper('nb_nfe_wms_aq')
-  and t.queue_table = q.queue_table
-
 =====================
 APAGAR MUITOS ARQUIVOS NO LINUX
 =====================
@@ -79,12 +70,10 @@ select * from dba_objects
 where status <> 'VALID'
 AND OWNER = 'RMS01';
 
-
 select 'alter '||do.object_type||' ' || owner || '.'||do.object_name||' compile;'
     from dba_objects do,sys.diana_version$ dv
     where dv.obj#=do.object_id
-    and do.timestamp <> to_char(dv.stime,'YYYY-MM-DD:HH24:MI:SS')
---------------------------------------------------------------------------------    
+    and do.timestamp <> to_char(dv.stime,'YYYY-MM-DD:HH24:MI:SS')    
 --------------------------------------------------------------------------------------------------------------------------------
 --- Recompile objects
 --------------------------------------------------------------------------------------------------------------------------------
@@ -240,6 +229,15 @@ begin
   end loop;
 end;
 --------------------------------------------------------------------------------------------------------------------------------
+-- ORACLE QUEUE
+--------------------------------------------------------------------------------------------------------------------------------
+-- listar a tabela relacionada a uma fila
+select t.*
+  from user_queues q
+     , user_queue_tables t
+where q.name = upper('nb_nfe_wms_aq')
+  and t.queue_table = q.queue_table
+--------------------------------------------------------------------------------------------------------------------------------
 -- View schemas in database
 --------------------------------------------------------------------------------------------------------------------------------
 select username as schema_name
@@ -248,5 +246,7 @@ order by username;
 --------------------------------------------------------------------------------------------------------------------------------
 --- JSON Generation 
 -------------------------------------------------------------------------------------------------------------------------------
+/*
 https://docs.oracle.com/en/database/oracle/oracle-database/12.2/adjsn/generation.html#GUID-C0F8F837-EE36-4EDD-9261-6E8A9245906C
 https://universodosdados.com/2018/12/03/os-super-poderes-das-de-transformacao/
+*/
