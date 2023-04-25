@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/OS-UNIX-informational?style=plastic&logo=freebsd&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=slackware&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=macos&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=2bbc8a"/>
 </p>
 <p align="center"> 
-<img src="https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=red"/> <img src="https://img.shields.io/badge/Code-C/C++-informational?style=plastic&logo=c&logoColor=white&color=blue"/> <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=plastic&logo=react&logoColor=white&color=61DAFB"/> <img src="https://img.shields.io/badge/Code-SQL-informational?style=plastic&logo=oracle&logoColor=white&color=red"/> 
+<img src="https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=red"/> <img src="https://img.shields.io/badge/Code-C/C++-informational?style=plastic&logo=c&logoColor=white&color=blue"/> <img src="https://img.shields.io/badge/cloud-Cloud%20Computing-blue"/> <img src="https://img.shields.io/badge/Code-SQL-informational?style=plastic&logo=oracle&logoColor=white&color=red"/> <img src="https://img.shields.io/badge/PL%2FSQL-Database-red"/> 
 </p>
 
 <p align="center"> 
