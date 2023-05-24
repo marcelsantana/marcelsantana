@@ -12,9 +12,9 @@
 <h2 align="center">Hello there! My name is Marcel Santana. 👋 </h2>
 <p align="center">I'm a Database Developer from Brazil, currently working at Oracle with focus on Oracle Retail Products.
 
-I love inovation, new techologies and create new things to add value for the people. Currently working on developing of applications and customer support based for Cloud Computing, Oracle Database with PL/SQL and technologies as: Java, Javascript, NextJS, Oracle Forms, Git, SOAP/REST APIs, Docker, Kubernetes and other.
+I am passionate about innovation, new technology, and adding value to people's lives. We are currently developing cloud-based applications and providing customer support based on Oracle Database with PL/SQL, Java, Javascript, NextJS, Oracle Forms, Git, SOAP/REST APIs, Docker, Kubernetes, etc..
 
-Of course, I am open to learn new tecnologies mainly with focus in back-end development. </p>
+The use of new technologies is of course open to me, especially in the context of back-end development. </p>
 
 <!--
 **marcelsantana/marcelsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
